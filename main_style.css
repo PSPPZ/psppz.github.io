@@ -1,0 +1,47 @@
+body {
+background-color:#203A74;
+font-family:Helvetica;
+color :#FFFFFF;
+font-size:22px;
+}
+a:visited, a:link, a:active {
+font-family:Tahoma;
+font-weight:normal;
+color :#0000FF;
+font-size:22px;
+text-decoration :normal;
+}
+a:hover {
+font-family:Tahoma;
+font-weight:normal;
+color :#0000CC;
+font-size:22px;
+text-decoration :underline;
+}
+h1 {
+font-family:Helvetica;
+color :#FFFFFF;
+text-align:center;
+}
+h2 {
+font-family:Helvetica;
+color :#FFFFFF;
+text-align:center;
+}
+h3 {
+font-family:Helvetica;
+color :#FFFFFF;
+text-align:left;
+}
+p {
+font-family:Helvetica;
+font-size:9px;
+color :#FFFFFF;
+text-align:left;
+}
+blockquote {
+font-family:Times New Roman;
+font-size:20px;
+color :#FFFFFF;
+text-align:center;
+}
